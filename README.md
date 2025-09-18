@@ -25,9 +25,8 @@ I build scalable full-stack web apps and cloud-native solutions with a focus on 
 
 ## 🧩 Highlights (3D-style card blocks)
 
- ![Anjali's GitHub stats](https://github-readme-stats.vercel.app/api?username=anjali-kumari94&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anjali-kumari94&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=anjali-kumari94&theme=dark&hide_border=true)
+ ![Anjali's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=anjali-kumari94&show_icons=true&theme=radical)
+
 
 
 **Full Stack Projects**
