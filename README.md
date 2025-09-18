@@ -91,6 +91,5 @@ Multilingual chatbot using LangChain, vector DB, and FastAPI. Deployed on GCP.
  
 
  
-
-If you want, I can now **auto-fill this README** with your GitHub username, portfolio link, LinkedIn, and email — tell me those (or paste them) and I'll update the README here.
+ 
 
