@@ -6,10 +6,11 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=https://github.com/anjali-kumari94&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?https://github.com/anjali-kumari94&layout=compact&theme=radical&hide_border=true" alt="Top languages" />
+ <p align="center">
+  <img src="https://github-readme-stats-rickstaa.vercel.app/api?username=anjali-kumari94&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="GitHub stats" />
+  <img src="https://github-readme-stats-rickstaa.vercel.app/api/top-langs/?username=anjali-kumari94&layout=compact&theme=radical&hide_border=true" alt="Top languages" />
 </p>
+
 
 ---
 
