@@ -57,7 +57,8 @@ I build scalable full-stack web apps and cloud-native solutions with a focus on 
 ---
 
 ## 📊 GitHub Activity
-![GitHub Streak](https://github-readme-streak-stats-seven.vercel.app?user=anjali-kumari94&theme=radical&hide_border=true)
+ ![GitHub Streak](https://github-readme-streak-stats-rickstaa.vercel.app?user=anjali-kumari94&theme=radical&hide_border=true)
+
 
 ---
 
