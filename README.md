@@ -58,7 +58,8 @@ I build scalable full-stack web apps and cloud-native solutions with a focus on 
 
 ## 📊 GitHub Activity
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME\&theme=dark\&hide_border=true)
+ ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=anjali-kumari94&theme=dark&hide_border=true)
+
 
 ---
 
