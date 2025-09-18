@@ -7,8 +7,8 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=https://github.com/anjali-kumari94&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?https://github.com/anjali-kumari94&layout=compact&theme=radical&hide_border=true" alt="Top languages" />
 </p>
 
 ---
