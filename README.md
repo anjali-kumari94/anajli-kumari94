@@ -64,10 +64,11 @@ I build scalable full-stack web apps and cloud-native solutions with a focus on 
 
 ## 🧾 Badges & Visitor Counter
 
-<p align="left">
-  <img alt="profile views" src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=brightgreen" />
-  <img alt="visitor badge" src="https://visitor-badge.laobi.icu/badge?page_id=YOUR_USERNAME.YOUR_USERNAME" />
+ <p align="left">
+  <img alt="profile views" src="https://komarev.com/ghpvc/?username=anjali-kumari94&color=brightgreen" />
+  <img alt="visitor badge" src="https://visitor-badge.laobi.icu/badge?page_id=anjali-kumari94.anjali-kumari94" />
 </p>
+
 
 ---
 
