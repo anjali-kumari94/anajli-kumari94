@@ -24,10 +24,7 @@ I build scalable full-stack web apps and cloud-native solutions with a focus on 
 
 ---
 
- ## 🧩 Highlights 
-
-![Anjali's GitHub stats](https://github-readme-stats-rickstaa.vercel.app/api?username=anjali-kumari94&show_icons=true&theme=radical&count_private=true&hide_border=true)
-
+ ## 🧩 Highlights
 
 
 **Full Stack Projects**
