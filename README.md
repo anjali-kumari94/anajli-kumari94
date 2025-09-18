@@ -1,7 +1,7 @@
 # anajli-kumari94
  # 👋 Hi, I'm Anjali Kumari
 
- ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=6C6CFF&width=600&lines=Tech+%26+Cloud+Enthusiast;Full+Stack+Learner+%7C+AI+Explorer;Building+%26+Learning+Everyday+)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=6C6CFF&width=600&lines=Tech+%26+Cloud+Enthusiast;Full+Stack+Learner+%7C+AI+Explorer;Building+%26+Learning+Everyday+)
 
 
 ---
